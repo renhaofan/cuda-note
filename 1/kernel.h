@@ -2,7 +2,8 @@
 // Created by ai on 19-2-18.
 //
 
-#ifndef CUDA_TEST_KERNEL_H
-#define CUDA_TEST_KERNEL_H
+#ifndef KERNEL_H
+#define KERNEL_H
 
-#endif //CUDA_TEST_KERNEL_H
+void distanceArray(float *out, float *in, float ref, int len);
+#endif //KERNEL_H

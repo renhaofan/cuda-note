@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "../CMakeLists.txt"
-  "CMakeFiles/1.dir/1_generated_main.cu.o.cmake.pre-gen"
-  "CMakeFiles/1.dir/1_generated_main.cu.o.depend"
   "CMakeFiles/3.12.0/CMakeCCompiler.cmake"
   "CMakeFiles/3.12.0/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.12.0/CMakeSystem.cmake"
+  "CMakeFiles/kernel.dir/kernel_generated_kernel.cu.o.cmake.pre-gen"
+  "CMakeFiles/kernel.dir/kernel_generated_kernel.cu.o.depend"
   "/opt/clion-2018.2.2/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCInformation.cmake"
   "/opt/clion-2018.2.2/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXInformation.cmake"
   "/opt/clion-2018.2.2/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake"
@@ -52,12 +52,13 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
-  "CMakeFiles/1.dir/1_generated_main.cu.o.cmake.pre-gen"
-  "CMakeFiles/1.dir/1_generated_main.cu.o.Debug.cmake"
+  "CMakeFiles/kernel.dir/kernel_generated_kernel.cu.o.cmake.pre-gen"
+  "CMakeFiles/kernel.dir/kernel_generated_kernel.cu.o.Debug.cmake"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/1.dir/DependInfo.cmake"
+  "CMakeFiles/kernel.dir/DependInfo.cmake"
   )

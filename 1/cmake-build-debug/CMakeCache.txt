@@ -150,7 +150,7 @@ CMAKE_OBJCOPY:FILEPATH=/usr/bin/objcopy
 CMAKE_OBJDUMP:FILEPATH=/usr/bin/objdump
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=cuda_test
+CMAKE_PROJECT_NAME:STATIC=1
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -497,7 +497,7 @@ CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 CUDA_64_BIT_DEVICE_CODE-ADVANCED:INTERNAL=1
 //List of intermediate files that are part of the cuda dependency
 // scanning.
-CUDA_ADDITIONAL_CLEAN_FILES:INTERNAL=/home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/1.dir//1_generated_main.cu.o.depend
+CUDA_ADDITIONAL_CLEAN_FILES:INTERNAL=/home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/1.dir//1_generated_main.cu.o.depend;/home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/1.dir//1_generated_kernel.cu.o.depend;/home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/kernel.dir//kernel_generated_kernel.cu.o.depend
 //ADVANCED property for variable: CUDA_ATTACH_VS_BUILD_RULE_TO_CUDA_FILE
 CUDA_ATTACH_VS_BUILD_RULE_TO_CUDA_FILE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CUDA_BUILD_CUBIN

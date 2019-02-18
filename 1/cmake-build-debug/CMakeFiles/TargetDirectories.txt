@@ -1,3 +1,4 @@
 /home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/1.dir
+/home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/kernel.dir
