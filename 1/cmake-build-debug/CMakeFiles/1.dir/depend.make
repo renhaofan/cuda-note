@@ -3,4 +3,8 @@
 
 CMakeFiles/1.dir/main.cpp.o: ../kernel.h
 CMakeFiles/1.dir/main.cpp.o: ../main.cpp
+CMakeFiles/1.dir/main.cpp.o: ../test.h
+
+CMakeFiles/1.dir/test.cpp.o: ../test.cpp
+CMakeFiles/1.dir/test.cpp.o: ../test.h
 

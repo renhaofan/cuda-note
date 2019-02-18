@@ -5,12 +5,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/ai/Documents/mycode/cuda-note/1/main.cpp" "/home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/1.dir/main.cpp.o"
+  "/home/ai/Documents/mycode/cuda-note/1/test.cpp" "/home/ai/Documents/mycode/cuda-note/1/cmake-build-debug/CMakeFiles/1.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/local/cuda-8.0/include"
+  "../"
   )
 
 # Targets to which this target links.

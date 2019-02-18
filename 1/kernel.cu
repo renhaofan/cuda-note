@@ -7,6 +7,7 @@ float distance(float x1, float x2) {
     return sqrt((x2 - x1) * (x2 - x1));
 }
 
+extern "C"
 __global__
 void distanceKernel(float *d_out, float *d_in, float ref) {
     const int i = blockIdx.x*blockDim.x + threadIdx.x;

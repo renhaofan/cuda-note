@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/1.dir/main.cpp.o  -o 1 /usr/lib/x86_64-linux-gnu/libcuda.so 
+/usr/bin/c++  -g   CMakeFiles/1.dir/main.cpp.o CMakeFiles/1.dir/test.cpp.o  -o 1 

@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/usr/local/cuda-8.0/include 
+CXX_INCLUDES = -I/usr/local/cuda-8.0/include -I/home/ai/Documents/mycode/cuda-note/1 
 

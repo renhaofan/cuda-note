@@ -323,6 +323,12 @@ CUDA_npps_LIBRARY:FILEPATH=/usr/local/cuda-8.0/lib64/libnpps.so
 //Path to a library.
 CUDA_rt_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.so
 
+//Value Computed by CMake
+P1_BINARY_DIR:STATIC=/home/ai/Documents/mycode/cuda-note/1/cmake-build-debug
+
+//Value Computed by CMake
+P1_SOURCE_DIR:STATIC=/home/ai/Documents/mycode/cuda-note/1
+
 //Path to a program.
 ProcessorCount_cmd_getconf:FILEPATH=/usr/bin/getconf
 

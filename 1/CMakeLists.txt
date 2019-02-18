@@ -20,13 +20,13 @@ file(GLOB CU *.cu)
 
 # 添加包含目录
 include_directories(${CUDA_INCLUDE_DIRS})
-
+#include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
 
 
 
 CUDA_ADD_EXECUTABLE(kernel # target名
         ${CU}  # 添加*.cu源文件
         ${COMMON}  # 添加
+        main.cpp
         )
-add_executable(1 main.cpp)
-target_link_libraries(1 ${CUDA_CUDA_LIBRARY})
+target_link_libraries(kernel ${CUDA_CUDA_LIBRARY})
